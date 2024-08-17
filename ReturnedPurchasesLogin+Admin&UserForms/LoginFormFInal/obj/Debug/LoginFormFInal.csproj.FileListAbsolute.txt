@@ -1,0 +1,12 @@
+C:\C# Projects\LoginFormFInal\LoginFormFInal\bin\Debug\LoginFormFInal.exe.config
+C:\C# Projects\LoginFormFInal\LoginFormFInal\bin\Debug\LoginFormFInal.exe
+C:\C# Projects\LoginFormFInal\LoginFormFInal\bin\Debug\LoginFormFInal.pdb
+C:\C# Projects\LoginFormFInal\LoginFormFInal\obj\Debug\LoginFormFInal.csproj.AssemblyReference.cache
+C:\C# Projects\LoginFormFInal\LoginFormFInal\obj\Debug\LoginFormFInal.AdminForm.resources
+C:\C# Projects\LoginFormFInal\LoginFormFInal\obj\Debug\LoginFormFInal.Form1.resources
+C:\C# Projects\LoginFormFInal\LoginFormFInal\obj\Debug\LoginFormFInal.Properties.Resources.resources
+C:\C# Projects\LoginFormFInal\LoginFormFInal\obj\Debug\LoginFormFInal.UserForm.resources
+C:\C# Projects\LoginFormFInal\LoginFormFInal\obj\Debug\LoginFormFInal.csproj.GenerateResource.cache
+C:\C# Projects\LoginFormFInal\LoginFormFInal\obj\Debug\LoginFormFInal.csproj.CoreCompileInputs.cache
+C:\C# Projects\LoginFormFInal\LoginFormFInal\obj\Debug\LoginFormFInal.exe
+C:\C# Projects\LoginFormFInal\LoginFormFInal\obj\Debug\LoginFormFInal.pdb
